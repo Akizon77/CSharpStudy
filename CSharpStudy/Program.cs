@@ -1,3 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine();
+﻿double a, b, c, d, e;
+a = b = c = d = e = 6.6;
